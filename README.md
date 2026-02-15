@@ -1,3 +1,3 @@
-# Webpack Template
+# Odin Weather App
 
-Weback template mainly used for TOP projects.
+Simple Weather App.
